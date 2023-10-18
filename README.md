@@ -1,10 +1,7 @@
 # Video-Processing-Project
 This project involved implementing a comprehensive video processing pipeline, including stabilization, background subtraction, matting, and object tracking,
 
-![תמונה2](https://github.com/HayLahav/Video-Processing-Project/assets/111200362/d5cd2758-4e6f-4a32-95e2-57994cee770e)
-
-                                                                                                                                
-
+                                                                                                                          
 ![image](https://github.com/HayLahav/Video-Processing-Project/assets/111200362/b60ea6c3-983e-41c4-86a2-04365e49298b)
 
 In this project, we aimed to develop a robust video processing pipeline encompassing multiple stages. The initial phase involved preprocessing by converting RGB frames to the HSV color space, identifying the object's bounding box, and cropping frames to enhance the efficiency of subsequent computationally expensive functions. Following this, creating scribbles involved generating foreground and background masks based on binary frames, further refined using morphological operations.
