@@ -1,6 +1,7 @@
 # Video-Processing-Project
 This project involved implementing a comprehensive video processing pipeline, including stabilization, background subtraction, matting, and object tracking,
 
+![תמונה2](https://github.com/HayLahav/Video-Processing-Project/assets/111200362/d5cd2758-4e6f-4a32-95e2-57994cee770e)
 
                                                                                                                                 
 
